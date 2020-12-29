@@ -1,35 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
-<<<<<<< HEAD
-12/27/2020
-||||||| 07fa9f4
+December 27th, 2020
 
-=======
-12/27/2020
 
->>>>>>> documentation
 ### Project Title
-Replace the Project Title
-<<<<<<< HEAD
-bikeshare version control project
-||||||| 07fa9f4
-=======
-bikeshare
->>>>>>> documentation
+Post your work on GitHub
+
 
 ### Description
-Describe what your project is about and what it does
-test of version control skills
+Prints Hello World to screen
+
 ### Files used
-Include the files used
-<<<<<<< HEAD
-bikeshare.py
-||||||| 07fa9f4
 
-=======
-bikeshare.py
+bikeshare.py .gitignore
 
->>>>>>> documentation
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Who knows who wrote the first hello world
 
